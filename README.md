@@ -1,2 +1,2 @@
-# Panel-administración
-    # Panel-administraci-n
+# Panel de administración
+
